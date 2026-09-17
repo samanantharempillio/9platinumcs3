@@ -3,6 +3,7 @@
 # Section: 9 - Platinum
 # Favorite Subject: English and SocSci
 # Activities
+* [ctskillsPlatinumREMPILLO.md](qi/ctskillsPlatinumREMPILLO.md)
 * [zodiacPlatinumRempillo.md](q1/zodiacPlatinumRempillo.md)
 * [ila_oop.md](q1/ila_oop.md)
 * 
