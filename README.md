@@ -11,5 +11,5 @@
 * [ctskillsPlatinumREMPILLO.md](q1/ctskillsPlatinumREMPILLO.md)
 * [zodiacPlatinumRempillo.md](q1/zodiacPlatinumRempillo.md)
 * [ila_oop.md](q1/ila_oop.md)
-* [SongsObjectUML.md](q1/SongsObjectUML.md)
+* [classObjectUML.md](q1/SongsObjectUML.md)
 * 
