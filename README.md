@@ -13,4 +13,5 @@
 * [ila_oop.md](q1/ila_oop.md)
 * [classObjectUML.md](q1/SongsObjectUML.md)
 * [classImplementationUML.md](q1/classImplementationUML.md)
-* [classRelationships.md]
+* [classRelationships.md](q1/classRelationships.md)
+* 
