@@ -1,4 +1,4 @@
 # Advanced Class Relationships:
 ## Previous Activities:
- * [classAttributes](classAttributesMethods.md)
+ * [classAttributes](classObjectUML.md)
  *  [classRelationships](classRelationships.md)
