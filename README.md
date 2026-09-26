@@ -14,4 +14,6 @@
 * [classObjectUML.md](q1/SongsObjectUML.md)
 * [classImplementationUML.md](q1/classImplementationUML.md)
 * [classRelationships.md](q1/classRelationships.md)
-* 
+* [advancedRelationships.md](q1/advancedRelationships.md)
+
+
