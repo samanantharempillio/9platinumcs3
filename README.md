@@ -7,7 +7,7 @@
 # Favorite Subject: English and SocSci
 
 # Activities:
-
+## 1st Quarter:
 * [ctskillsPlatinumREMPILLO.md](q1/ctskillsPlatinumREMPILLO.md)
 * [zodiacPlatinumRempillo.md](q1/zodiacPlatinumRempillo.md)
 * [ila_oop.md](q1/ila_oop.md)
@@ -16,4 +16,6 @@
 * [classRelationships.md](q1/classRelationships.md)
 * [advancedRelationships.md](q1/advancedRelationships.md)
 
-
+## 2nd Quarter: 
+* [sg8_encapsulation](q2 /sg8_encapsulation.py)
+* 
