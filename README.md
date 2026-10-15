@@ -17,5 +17,6 @@
 * [advancedRelationships.md](q1/advancedRelationships.md)
 
 ## 2nd Quarter: 
-* [sg8_encapsulation](q2/sg8_encapsulation.py)
+* [sg8_encapsulation.py](q2/sg8_encapsulation.py)
+* [sg9_inheiritance.py](q2/sg9_inhieritance.py)
 * 
