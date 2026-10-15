@@ -18,5 +18,5 @@
 
 ## 2nd Quarter: 
 * [sg8_encapsulation.py](q2/sg8_encapsulation.py)
-* [sg9_inheiritance.py](q2/sg9_inhieritance.py)
-* 
+* [sg9_inheiritance.py](q2 /sg9_inheiritance.py)
+*  
